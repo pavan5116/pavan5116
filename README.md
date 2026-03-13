@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Pavan 👋
 
-<!--
-**pavan5116/pavan5116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on building secure REST APIs using Django.
 
-Here are some ideas to get you started:
+## Tech Stack
+Python • Django • Django REST Framework • React • MySQL • LangChain • Gemini
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Webhook Mock Studio
+Developer tool that allows engineers to create mock API endpoints for testing frontend apps and webhook integrations.
+
+### Secure Task Manager
+JWT-authenticated full-stack task management platform with user-level data isolation.
+
+### AI Chatbot
+Streamlit chatbot using LangChain and Google Gemini for real-time conversations.
+
+## Interests
+Backend Architecture • API Security • Developer Tools • AI Integration
